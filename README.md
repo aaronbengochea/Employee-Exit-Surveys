@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Analysis of Employee Exit Surveys - Data Cleaning Exercise
 This project focus on cleaning and analysing exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) body of the Queensland government in Australia. The DETE exit survey can be found hear, meanwhile, the original dataset for the TAFE exit survey is no longer available.
 
@@ -12,5 +11,4 @@ The stakeholders want us to combine results from both surveys and answer above q
 
 ## Summary Of Findings
 Employees with more years of service tend to have higher likelihoods of resigning due to dissatisfaction in comparison to other employees that have a shorter tenure with the company.
-=======
->>>>>>> 41bc6eb03093939210dc8087d40ea88135a239aa
+
